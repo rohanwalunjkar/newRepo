@@ -1,5 +1,5 @@
 
-class PrintEvenNO {
+public class PrintEvenNO {
 
     public static void main(String[] args) {
 
